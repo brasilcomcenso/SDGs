@@ -1,7 +1,9 @@
-# SDGs
-UN's Sustainable Development Goals
+*English*
+# SDGs - Sustainable Development Goals, *UN* (*United Nations*)
+*Português*
+## ODS - Objetivos de Desenvolvimento Sustentável, *ONU* (*Organização das Nações Unidas*)
 
-#	`SDG`
+#	`SDG`/`ODS`
 `1`	End poverty in all its forms everywhere
 
 `2`	End hunger, achieve food security and improved nutrition and promote sustainable agriculture
